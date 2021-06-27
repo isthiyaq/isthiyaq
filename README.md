@@ -2,7 +2,7 @@
 
 <!-- <h3><i>Spare some time to take a look at my <a href="https://abphotography.live/">portfolio</a>!</i></h3> -->
 
-<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/isthiyaq/isthiyaq/blob/master/images/2021-03_Badge_SF-Certified_Application-Architect_High-Res.png" align="right" height="300"></a>
 
 # About myself
 
