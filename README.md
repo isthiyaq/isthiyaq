@@ -2,7 +2,7 @@
 
 <!-- <h3><i>Spare some time to take a look at my <a href="https://abphotography.live/">portfolio</a>!</i></h3> -->
 
-<a href="https://www.linkedin.com/in/isthiyaq"><img src="https://github.com/isthiyaq/isthiyaq/blob/master/images/logo-2.png" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/isthiyaq"><img src="https://github.com/isthiyaq/isthiyaq/blob/main/images/logo-2.png" align="right" height="300"></a>
 
 # About myself
 
